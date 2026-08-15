@@ -70,7 +70,7 @@ const projects = [
     name: 'Digital Menu',
     category: 'Food & Dining',
     image: '/work/restaurant.png',
-    url: 'https://vivi-cafe-menu.lovable.app/',
+    url: 'https://vivicafe.netlify.app/',
   },
   {
     name: 'Nova Cloth',
